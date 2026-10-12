@@ -1,0 +1,23 @@
+{
+  "name": "Top Diwa Apps Official App",
+  "short_name": "Top Diwa Apps",
+  "description": "India's Official High-Roller Diwa Network & All Diwa Apps Directory 2026",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#18181B",
+  "theme_color": "#DC2626",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}
